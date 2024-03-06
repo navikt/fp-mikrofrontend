@@ -16,3 +16,5 @@ const Komponent = ({ tekst }: Props) => {
 };
 
 export default Komponent;
+
+//TODO: Legg til en onClick for å logge Amplitude event når en bruker går til appen vår.
